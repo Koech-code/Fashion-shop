@@ -1,6 +1,27 @@
-body{
+*{
     margin: 0;
     padding: 0;
+}
+#nav-container{
+    width: 300vh;
+    padding-left: 30%;
+}
+#header{
+    width: 100%;
+    background-position: center;
+    position: relative;
+}
+nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
 }
 .women{
     background-color: #f5ead6;
@@ -28,7 +49,7 @@ body{
 .others{
     background-color: cyan;
     margin-right: 20%;
-    margin-left: 47%;
+    margin-left: 51%;
     position: absolute;
     display: flex;
     justify-content: center;
@@ -56,11 +77,11 @@ body{
 .grid2{
     background-color: Thistle;
     height: 35vh;
-    width: 54vh;
+    width: 45vh;
     position: relative;
     display: flex;
     justify-content: center;
-    margin-left: 74.5%;
+    margin-left: 80.7%;
 }
 #kidimg{
     height: 32vh;
@@ -86,7 +107,7 @@ body{
     position: absolute;
     display: flex;
     justify-content: center;
-    margin-left: 47%;
+    margin-left: 51%;
     margin-top: 0.5%;
 }
 #picha{
@@ -113,7 +134,7 @@ body{
     position: absolute;
     display: flex;
     justify-content: center;
-    margin-left: 74.5%;
+    margin-left: 81%;
     margin-top: 0.5%;
 }
 #mwisho{
