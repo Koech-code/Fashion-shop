@@ -48,7 +48,7 @@ $ git clone https://koech-code.github.io/Fashion-shop/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Koech-code/Restaurants-landing_page.git).
+Feel free to check the [issues page](https://github.com/Koech-code/Fashion-shop.git).
 
 ## Show your support
 
