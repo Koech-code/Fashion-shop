@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.women{
+    background-color: #f5ead6;
+    height: 71vh;
+    width: 100vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+.first{
+   padding-top: 25%;
+   padding-left: 2%;
+}
+#welcome{
+    font-weight: 600;
+}
+#bold{
+    font-style: italic;
+    font-size: 27px;
+}
+.woman ,#img1{
+    height: 70vh;
+    width: 65vh;
+}
+.others{
+    background-color: cyan;
+    margin-right: 20%;
+    margin-left: 47%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    height: 35vh;
+    width: 58vh;
+}
+#show{
+    height: 35vh;
+    width: 26vh;
+}
+#p1{
+    padding-top: 20%;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding-left: 10%;
+}
+#p2{
+    padding-left: 10%;
+}
+#wlcm{
+    font-weight: 600;
+    padding-left: 10%;
+}
+.grid2{
+    background-color: Thistle;
+    height: 35vh;
+    width: 54vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-left: 74.5%;
+}
+#kidimg{
+    height: 32vh;
+    width: 23vh;
+}
+#p3{
+    padding-top: 20%;
+    padding-left: 10%;
+    font-weight: 600;
+    font-size: 20px;
+}
+#p4{
+    padding-left: 10%;
+}
+#karibu{
+    font-weight: 600;
+    padding-left: 10%;
+}
+.grid3{
+    background: MistyRose;;
+    height: 35vh;
+    width: 58.29vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 47%;
+    margin-top: 0.5%;
+}
+#picha{
+    height: 30vh;
+    width: 24vh;
+}
+#p5{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 20%;
+    padding-left: 10%;
+}
+#p6{
+    padding-left: 10%;
+}
+#krbu{
+    font-weight:600;
+    padding-left: 10%;
+}
+.grid4{
+    background-color: Gainsboro;
+    height: 35vh;
+    width: 54vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 74.5%;
+    margin-top: 0.5%;
+}
+#mwisho{
+    height: 30vh;
+    width: 25vh;
+}
+#p7{
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 20%;
+    padding-left: 10%;
+}
+#p8{
+    padding-left: 10%;
+}
+#last{
+    font-weight: 600;
+    padding-left: 10%;
+}
